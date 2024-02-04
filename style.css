@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-image: url("background.jpg");
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+h4{
+    background-color: rgb(112, 237, 170);
+    line-height: 2;
+    margin: 0px;
+}
+canvas{
+    border: 5px solid rgb(71, 0, 252);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+    margin-top: 160px;
+    background-position: center; 
+}
